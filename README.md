@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# 🎮 PhaserJS in ReactJS – [Tutorial Series](https://www.youtube.com/playlist?list=PLuvV2oAgdRixSW6g-F3G2rCEZXCy2ZGlo)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to this repository! This is the official source code repository for my PhaserJS in ReactJS tutorial series on YouTube. 🚀
 
-## Available Scripts
+## 📌 About This Series
+In this series, I aim to establish a strong foundation for using PhaserJS with ReactJS. Through hands-on tutorials, you'll learn how to create small games that will help you develop essential Phaser skills, ultimately enabling you to build more complex projects.
 
-In the project directory, you can run:
+Along the way, I’ll also introduce best practices and coding norms to help maintain a clean and scalable codebase.
 
-### `npm start`
+By the end of this series, you’ll have a complete end-to-end project to showcase in your portfolio.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🔍 Finding the Right Branch
+To make it easy for you to follow along with the tutorial series, I have organized the source code into separate branches, each corresponding to a specific video. This allows you to access the exact code for any stage of the project.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 📌 How the Branches Are Structured
+- The main branch contains the latest and most up-to-date version of the project, reflecting the final version covered in the tutorials.
+- Each video has its own branch named according to its episode number. For example:
+    - `01-phaser-setup-in-react` – Code from the first video (setting up the project)
+    - `02-directory-structure` – Code from the second video (adding sprites)
+    - … and so on.
+This structure allows you to jump to any stage of the tutorial and see how the code evolved over time.
 
-### `npm test`
+## 📺 YouTube Playlist
+🔗 Watch the full series on YouTube: [Click here](https://www.youtube.com/playlist?list=PLuvV2oAgdRixSW6g-F3G2rCEZXCy2ZGlo)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+If you’re following along, be sure to star ⭐ this repo and subscribe to the channel for updates!
 
-### `npm run build`
+## 📌 What You’ll Learn
+✅ Setting up PhaserJS in a ReactJS project. <br/>
+✅ Creating small Phaser games step by step.  <br/>
+✅ Managing game state and interactions.  <br/>
+✅ Handling assets (images, sprites, sounds).  <br/>
+✅ Using best coding practices for maintainability.  <br/>
+✅ Optimizing performance for web-based games.  <br/>
+✅ And much more!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📖 Resources
+- [🔗 PhaserJS Documentation](https://docs.phaser.io/phaser/getting-started/what-is-phaser)
+- [🔗 ReactJS Documentation](https://react.dev/reference/react)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🤝 Contributing
+Have suggestions or improvements? Feel free to fork this repo, open an issue, or submit a pull request!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📩 Stay Connected
+💬 Join the conversation! Connect with me on:
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- 🔗 Linkedin: [@iamsmruti](https://www.linkedin.com/in/iamsmruti/)
+- 🔗 Instagram: [@__iamsmruti](https://www.instagram.com/__iamsmruti/)
+- 🔗 YouTube: [Subscribe Here](https://www.youtube.com/@AgileCoderYT)
+Don’t forget to ⭐ star this repo if you find it helpful!
